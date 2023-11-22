@@ -1,0 +1,9 @@
+[package]
+name = "Challenge"
+version = "0.0.0"
+
+[addresses]
+hello_blockchain = "_"
+
+[dependencies]
+AptosFramework = { local = "../../framework/aptos-framework" }
